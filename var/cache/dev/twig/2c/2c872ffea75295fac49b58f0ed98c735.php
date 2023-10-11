@@ -692,6 +692,6 @@ class __TwigTemplate_3e4f73aa0ae8926da38cdda3bff33942 extends Template
     });
 })();
 </script>
-", "@WebProfiler/Profiler/settings.html.twig", "/Users/andrejkarshakevich/Projects/guestbook/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/settings.html.twig");
+", "@WebProfiler/Profiler/settings.html.twig", "/Users/andrejkarshakevich/Projects/guestbook/guestbook/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/settings.html.twig");
     }
 }

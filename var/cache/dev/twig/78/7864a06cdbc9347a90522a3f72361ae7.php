@@ -1080,6 +1080,6 @@ class __TwigTemplate_bcc879ef41d0ccd672d05ff5bd089e34 extends Template
         {%- endif -%}
     {% endmacro %}
 {% endblock %}
-", "@WebProfiler/Collector/mailer.html.twig", "/Users/andrejkarshakevich/Projects/guestbook/vendor/symfony/web-profiler-bundle/Resources/views/Collector/mailer.html.twig");
+", "@WebProfiler/Collector/mailer.html.twig", "/Users/andrejkarshakevich/Projects/guestbook/guestbook/vendor/symfony/web-profiler-bundle/Resources/views/Collector/mailer.html.twig");
     }
 }
